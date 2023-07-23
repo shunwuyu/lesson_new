@@ -19,3 +19,5 @@
 
 # Go workspace file
 go.work
+# 忽略 .env 文件
+.env
